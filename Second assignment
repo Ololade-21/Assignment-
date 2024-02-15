@@ -1,0 +1,22 @@
+using system;
+namespace application {
+class program{
+public static void Main (string () args){
+int i =12; 
+double d= 4.0;
+string s= " is the best place to learn computer;
+console.write ("enter 2nd interger number");
+int ii= Int.Parse (console.readline ());
+console.write("enter your 2nd double no);
+double dd = Double.Parse (console.readline());
+Console.write("enter your second string);
+string ss= console.readline();
+int sum = i + ii;
+double sum double= d + dd;
+control.writeline(sum);
+control.writeline(sum double);
+control.writeline(ss + s);
+control.readline();
+}
+}
+}
